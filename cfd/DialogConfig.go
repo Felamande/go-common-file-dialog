@@ -3,8 +3,8 @@
 package cfd
 
 import (
-  "errors"
-  "os"
+	"errors"
+	"os"
 )
 
 type FileFilter struct {
